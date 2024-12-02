@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_variant">#FF8787</color>
+    <color name="secondary">#4ECDC4</color>
+    <color name="secondary_variant">#45B7AF</color>
+    
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F8F9FA</color>
+    <color name="error">#FF4444</color>
+    
+    <color name="text_primary">#212529</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="text_hint">#ADB5BD</color>
+    
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E9ECEF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF6B6B</color>
+    <color name="gradient_end">#4ECDC4</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3FFFFFF</color>
+    <color name="dark_card_background">#2D2D2D</color>
+</resources>

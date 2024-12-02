@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_library"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Library" />
+
+    <item
+        android:id="@+id/navigation_playlists"
+        android:icon="@android:drawable/ic_menu_slideshow"
+        android:title="Playlists" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="Favorites" />
+</menu>
