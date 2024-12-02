@@ -19,10 +19,13 @@ This is a demonstration of UI/UX design skills. The app's functions (like playin
 - Material Design Components
 
 ## Screenshots
-![Screenshot 1](Screenshot/1.jpg)
-![Screenshot 2](Screenshot/2.jpg)
-![Screenshot 3](Screenshot/3.jpg)
-![Screenshot 4](Screenshot/4.jpg)
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="Screenshot/1.jpg" alt="Screenshot 1" style="width: 200px; height: auto;">
+    <img src="Screenshot/2.jpg" alt="Screenshot 2" style="width: 200px; height: auto;">
+    <img src="Screenshot/3.jpg" alt="Screenshot 3" style="width: 200px; height: auto;">
+    <img src="Screenshot/4.jpg" alt="Screenshot 4" style="width: 200px; height: auto;">
+</div>
+
 
 ## License
 This project is open source and available under the MIT License.
