@@ -19,10 +19,10 @@ This is a demonstration of UI/UX design skills. The app's functions (like playin
 - Material Design Components
 
 ## Screenshots
-![Screenshot 1](screenshots/1.jpg)
-![Screenshot 2](screenshots/2.jpg)
-![Screenshot 3](screenshots/3.jpg)
-![Screenshot 4](screenshots/4.jpg)
+![Screenshot 1](Screenshot/1.jpg)
+![Screenshot 2](Screenshot/2.jpg)
+![Screenshot 3](Screenshot/3.jpg)
+![Screenshot 4](Screenshot/4.jpg)
 
 ## License
 This project is open source and available under the MIT License.
